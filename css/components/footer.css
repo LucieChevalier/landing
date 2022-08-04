@@ -1,0 +1,9 @@
+.footer h2{
+  text-align: center;
+  margin:20px;
+}
+.footer ul,li{
+  display: inline-block;
+  background-color: #424C55;
+  margin-top: 100px;
+}

@@ -1,0 +1,19 @@
+
+.card{
+  display:flex;
+  flex-direction: column;
+  padding:50px;
+  background-color: #886F68;
+  margin:0 5px;
+  border-radius: 5px;
+  box-shadow: 30px -20px #F5EDF0;
+}
+.card h3{
+  padding:10px;
+}
+.card p{
+  opacity: 0.5;
+}
+.card img{
+  border-radius: 5px;
+}
